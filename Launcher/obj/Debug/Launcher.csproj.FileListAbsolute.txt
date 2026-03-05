@@ -1,0 +1,95 @@
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\PBLauncher.exe
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\Npgsql.dll
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.Connection.resources
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.Launcher.resources
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.Notice.resources
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\Launcher.csproj.Up2Date
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\Adrian\Desktop\PBLauncher\Launcher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe.config
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.pdb
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Connection.resources
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Launcher.resources
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Notice.resources
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.Up2Date
+C:\Users\inall\test\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe.config
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe.config
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.pdb
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.ValueTuple.dll
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe.config
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Connection.resources
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Launcher.resources
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Notice.resources
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.Up2Date
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+D:\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe.config
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.pdb
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.dll
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.ValueTuple.dll
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.xml
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe.config
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Connection.resources
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Launcher.resources
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Notice.resources
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.Up2Date
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+\\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe.config
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.exe
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\PBLauncher.pdb
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\System.ValueTuple.dll
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe.config
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Connection.resources
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Launcher.resources
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Notice.resources
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\Launcher.csproj.Up2Date
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.exe
+D:\Games\PB OFFLINE\PB 368\Launcher\PBLauncher\Launcher\obj\Debug\PBLauncher.pdb

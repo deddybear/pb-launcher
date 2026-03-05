@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\utils\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\utils\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Program.cs",
+              "RelativeDocumentMoniker": "Launcher\\Program.cs",
+              "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Program.cs",
+              "RelativeToolTip": "Launcher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:51:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connection.cs [Design]",
+              "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Connection.cs",
+              "RelativeDocumentMoniker": "Launcher\\Connection.cs",
+              "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Connection.cs [Design]",
+              "RelativeToolTip": "Launcher\\Connection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:51:14.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info.cs",
+              "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Utils\\Info.cs",
+              "RelativeDocumentMoniker": "Launcher\\Utils\\Info.cs",
+              "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Utils\\Info.cs",
+              "RelativeToolTip": "Launcher\\Utils\\Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:51:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.cs",
+              "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs",
+              "RelativeDocumentMoniker": "Launcher\\Launcher.cs",
+              "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs",
+              "RelativeToolTip": "Launcher\\Launcher.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwJkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:49:22.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Launcher.cs [Design]",
+              "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs",
+              "RelativeDocumentMoniker": "Launcher\\Launcher.cs",
+              "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs [Design]",
+              "RelativeToolTip": "Launcher\\Launcher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T16:49:17.171Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+[2026.02.19 - 20:14] Verificando arquivos importantes.
+[2026.02.19 - 20:14] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 20:14] Verificando arquivos importantes.
+[2026.02.19 - 20:14] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 20:21] Verificando arquivos importantes.
+[2026.02.19 - 20:21] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 20:23] Verificando arquivos importantes.
+[2026.02.19 - 20:23] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 20:23] Verificando arquivos importantes.
+[2026.02.19 - 20:23] Verificando arquivos importantes.
+[2026.02.19 - 20:23] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 20:24] Verificando arquivos importantes.
+[2026.02.19 - 20:24] [>>] Arquivo ausente:Config.json
+[2026.02.19 - 21:57] Memeriksa file-file penting.
+[2026.02.19 - 21:57] [>>] Berkas hilang:Config.json
+[2026.02.19 - 21:59] Memeriksa file-file penting.
+[2026.02.19 - 21:59] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:00] Memeriksa file-file penting.
+[2026.02.19 - 22:00] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:01] Memeriksa file-file penting.
+[2026.02.19 - 22:01] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:21] Memeriksa file-file penting.
+[2026.02.19 - 22:21] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:22] Memeriksa file-file penting.
+[2026.02.19 - 22:23] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:24] Memeriksa file-file penting.
+[2026.02.19 - 22:25] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:26] Memeriksa file-file penting.
+[2026.02.19 - 22:26] [>>] Berkas hilang:Config.json
+[2026.02.19 - 22:27] Memeriksa file-file penting.
+[2026.02.19 - 22:27] [#] Config.json.
+[2026.02.19 - 22:27] [#] Newtonsoft.Json.dll.
+[2026.02.19 - 22:27] [#] System.ValueTuple.dll.
+[2026.02.19 - 22:27] [#] System.Threading.Tasks.Extensions.dll.
+[2026.02.19 - 22:27] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.02.19 - 22:27] Berkas telah diverifikasi.
+[2026.02.19 - 22:28] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.02.19 - 22:32] Memeriksa file-file penting.
+[2026.02.19 - 22:32] [#] Config.json.
+[2026.02.19 - 22:32] [#] Newtonsoft.Json.dll.
+[2026.02.19 - 22:32] [#] System.ValueTuple.dll.
+[2026.02.19 - 22:32] [#] System.Threading.Tasks.Extensions.dll.
+[2026.02.19 - 22:32] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.02.19 - 22:32] Berkas telah diverifikasi.
+[2026.02.19 - 22:33] [#] Memeriksa integritas file.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_100_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \chrome_100_percent.pak
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_200_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \chrome_200_percent.pak
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \d3dcompiler_47.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \d3dcompiler_47.dll
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \ffmpeg.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \ffmpeg.dll
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \icudtl.dat tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \icudtl.dat
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libEGL.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \libEGL.dll
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libGLESv2.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \libGLESv2.dll
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSE.electron.txt tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \LICENSE.electron.txt
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSES.chromium.html tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \LICENSES.chromium.html
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \resources.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \resources.pak
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \snapshot_blob.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \snapshot_blob.bin
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \v8_context_snapshot.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \v8_context_snapshot.bin
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \vk_swiftshader.dll
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader_icd.json tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \vk_swiftshader_icd.json
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vulkan-1.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas tidak ditemukan: \vulkan-1.dll
+[2026.02.19 - 22:33] Mengunduh [15] Berkas tidak valid.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_100_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [chrome_100_percent.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_200_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [chrome_200_percent.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \d3dcompiler_47.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [d3dcompiler_47.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \ffmpeg.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [ffmpeg.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \icudtl.dat tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [icudtl.dat] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libEGL.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [libEGL.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libGLESv2.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [libGLESv2.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSE.electron.txt tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [LICENSE.electron.txt] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSES.chromium.html tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [LICENSES.chromium.html] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \resources.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [resources.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \snapshot_blob.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [snapshot_blob.bin] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \v8_context_snapshot.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [v8_context_snapshot.bin] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [vk_swiftshader.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader_icd.json tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [vk_swiftshader_icd.json] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vulkan-1.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:33] Berkas [vulkan-1.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:33] Verifikasi selesai.
+[2026.02.19 - 22:33] Terdeteksi [15] Berkas tidak valid.
+[2026.02.19 - 22:34] Memeriksa file-file penting.
+[2026.02.19 - 22:34] [#] Config.json.
+[2026.02.19 - 22:34] [#] Newtonsoft.Json.dll.
+[2026.02.19 - 22:34] [#] System.ValueTuple.dll.
+[2026.02.19 - 22:34] [#] System.Threading.Tasks.Extensions.dll.
+[2026.02.19 - 22:34] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.02.19 - 22:34] Berkas telah diverifikasi.
+[2026.02.19 - 22:34] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.02.19 - 22:34] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.02.19 - 22:34] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.02.19 - 22:35] [#] Memeriksa integritas file.
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_100_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \chrome_100_percent.pak
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_200_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \chrome_200_percent.pak
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \d3dcompiler_47.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \d3dcompiler_47.dll
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \ffmpeg.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \ffmpeg.dll
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \icudtl.dat tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \icudtl.dat
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libEGL.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \libEGL.dll
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libGLESv2.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \libGLESv2.dll
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSE.electron.txt tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \LICENSE.electron.txt
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSES.chromium.html tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \LICENSES.chromium.html
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \resources.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \resources.pak
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \snapshot_blob.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \snapshot_blob.bin
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \v8_context_snapshot.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \v8_context_snapshot.bin
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \vk_swiftshader.dll
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader_icd.json tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \vk_swiftshader_icd.json
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vulkan-1.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas tidak ditemukan: \vulkan-1.dll
+[2026.02.19 - 22:35] Mengunduh [15] Berkas tidak valid.
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_100_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas [chrome_100_percent.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \chrome_200_percent.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas [chrome_200_percent.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \d3dcompiler_47.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas [d3dcompiler_47.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:35] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \ffmpeg.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:35] Berkas [ffmpeg.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \icudtl.dat tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [icudtl.dat] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libEGL.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [libEGL.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \libGLESv2.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [libGLESv2.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSE.electron.txt tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [LICENSE.electron.txt] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \LICENSES.chromium.html tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [LICENSES.chromium.html] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \resources.pak tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [resources.pak] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \snapshot_blob.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [snapshot_blob.bin] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \v8_context_snapshot.bin tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [v8_context_snapshot.bin] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [vk_swiftshader.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vk_swiftshader_icd.json tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [vk_swiftshader_icd.json] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Terjadi kesalahan saat mengambil jalur relatif. Jalur: \vulkan-1.dll tidak mengandung \\10.1.28.24\Sharing\Game Dev\PB\PB368\Launcher\PBLauncher\Launcher\bin\Debug
+[2026.02.19 - 22:36] Berkas [vulkan-1.dll] Tidak ditemukan di server. Silakan coba lagi nanti.
+[2026.02.19 - 22:36] Verifikasi selesai.
+[2026.02.19 - 22:36] Terdeteksi [15] Berkas tidak valid.
+[2026.02.19 - 22:37] Memeriksa file-file penting.
+[2026.02.19 - 22:37] [#] Config.json.
+[2026.02.19 - 22:37] [#] Newtonsoft.Json.dll.
+[2026.02.19 - 22:37] [#] System.ValueTuple.dll.
+[2026.02.19 - 22:37] [#] System.Threading.Tasks.Extensions.dll.
+[2026.02.19 - 22:37] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.02.19 - 22:37] Berkas telah diverifikasi.
+[2026.02.19 - 22:38] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.02.19 - 22:45] Memeriksa file-file penting.
+[2026.02.19 - 22:45] [#] Config.json.
+[2026.02.19 - 22:45] [#] Newtonsoft.Json.dll.
+[2026.02.19 - 22:45] [#] System.ValueTuple.dll.
+[2026.02.19 - 22:45] [#] System.Threading.Tasks.Extensions.dll.
+[2026.02.19 - 22:45] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.02.19 - 22:45] Berkas telah diverifikasi.
+[2026.03.05 - 23:50] Memeriksa file-file penting.
+[2026.03.05 - 23:50] [#] Config.json.
+[2026.03.05 - 23:50] [#] Newtonsoft.Json.dll.
+[2026.03.05 - 23:50] [#] System.ValueTuple.dll.
+[2026.03.05 - 23:50] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.05 - 23:50] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.05 - 23:50] Berkas telah diverifikasi.
+[2026.03.05 - 23:51] Kami tidak dapat terhubung ke basis data.
+[2026.03.05 - 23:54] Memeriksa file-file penting.
+[2026.03.05 - 23:54] [#] Config.json.
+[2026.03.05 - 23:54] [#] Newtonsoft.Json.dll.
+[2026.03.05 - 23:54] [#] System.ValueTuple.dll.
+[2026.03.05 - 23:54] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.05 - 23:54] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.05 - 23:54] Berkas telah diverifikasi.
+[2026.03.05 - 23:56] Memeriksa file-file penting.
+[2026.03.05 - 23:56] [#] Config.json.
+[2026.03.05 - 23:56] [#] Newtonsoft.Json.dll.
+[2026.03.05 - 23:56] [#] System.ValueTuple.dll.
+[2026.03.05 - 23:56] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.05 - 23:56] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.05 - 23:56] Berkas telah diverifikasi.
+[2026.03.05 - 23:57] Memeriksa file-file penting.
+[2026.03.05 - 23:57] [#] Config.json.
+[2026.03.05 - 23:57] [#] Newtonsoft.Json.dll.
+[2026.03.05 - 23:57] [#] System.ValueTuple.dll.
+[2026.03.05 - 23:57] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.05 - 23:57] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.05 - 23:57] Berkas telah diverifikasi.
+[2026.03.05 - 23:57] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.03.05 - 23:58] Memeriksa file-file penting.
+[2026.03.05 - 23:58] [#] Config.json.
+[2026.03.05 - 23:58] [#] Newtonsoft.Json.dll.
+[2026.03.05 - 23:58] [#] System.ValueTuple.dll.
+[2026.03.05 - 23:58] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.05 - 23:58] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.05 - 23:58] Berkas telah diverifikasi.
