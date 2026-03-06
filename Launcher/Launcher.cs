@@ -7,7 +7,6 @@ using System.Net;
 using System.Net.Http;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography;
-using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -44,6 +43,7 @@ namespace Launcher
         #region mouse events
         private void BTN_Start_MouseEnter(object sender, EventArgs e)
         {
+            BTN_Start.Cursor = Cursors.Hand;
             BTN_Start.BackgroundImage = Resources.Start_Leave1;
             BTN_Start.BackColor = Color.Transparent;
         }
@@ -54,6 +54,7 @@ namespace Launcher
         }
         private void BTN_Check_MouseEnter(object sender, EventArgs e)
         {
+            BTN_Check.Cursor = Cursors.Hand;
             BTN_Check.BackgroundImage = Resources.Check_Leave1;
             BTN_Check.BackColor = Color.Transparent;
         }
@@ -64,6 +65,7 @@ namespace Launcher
         }
         private void BTN_Close_MouseEnter(object sender, EventArgs e)
         {
+            BTN_Close.Cursor = Cursors.Hand;
             BTN_Close.BackgroundImage = Resources.Fechar_Leave___Copia;
             BTN_Close.BackColor = Color.Transparent;
         }
@@ -74,6 +76,7 @@ namespace Launcher
         }
         private void BTN_Minimize_MouseEnter(object sender, EventArgs e)
         {
+            BTN_Minimize.Cursor = Cursors.Hand;
             BTN_Minimize.BackgroundImage = Resources.Minimize_Leave___Copia;
             BTN_Minimize.BackColor = Color.Transparent;
         }
@@ -84,6 +87,7 @@ namespace Launcher
         }
         private void BTN_Update_MouseEnter(object sender, EventArgs e)
         {
+            BTN_Update.Cursor = Cursors.Hand;
             BTN_Update.BackgroundImage = Resources.Update_Leave1;
             BTN_Update.BackColor = Color.Transparent;
         }
@@ -148,20 +152,23 @@ namespace Launcher
         {
             try
             {
-                string gamePath = Path.Combine(Application.StartupPath, "PointBlank.exe");
+                LoginForm loginForm = new LoginForm();
+                loginForm.ShowDialog();
 
-                if (File.Exists(gamePath))
-                {
-                    Process.Start(gamePath);
-                    Application.Exit();
-                }
-                else
-                {
-                    string Error = "Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.";
-                    Logger.Log(Error);
-                    //Notice.ShowNotice("File eksekusi game tidak dapat ditemukan.");
-                    MessageBox.Show($"File eksekusi game tidak dapat ditemukan.", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                }
+                //string gamePath = Path.Combine(Application.StartupPath, "PointBlank.exe");
+
+                //if (File.Exists(gamePath))
+                //{
+                //    Process.Start(gamePath);
+                //    Application.Exit();
+                //}
+                //else
+                //{
+                //    string Error = "Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.";
+                //    Logger.Log(Error);
+                //    //Notice.ShowNotice("File eksekusi game tidak dapat ditemukan.");
+                //    MessageBox.Show($"File eksekusi game tidak dapat ditemukan.", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                //}
             }
             catch (Exception ex)
             {
@@ -172,7 +179,7 @@ namespace Launcher
         }
         private void BTN_Check_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Fitur Update Belum Tersedia", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            MessageBox.Show("Client sudah versi terbaru", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Warning);
             //StartCheck();
         }
         public void CheckNewsUpdate()

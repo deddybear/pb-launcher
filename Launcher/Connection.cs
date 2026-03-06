@@ -86,6 +86,7 @@ namespace Launcher
                 while (leitor.Read())
                 {
                     Infos.PBLAUNCHER_CONNECTION_TYPE = leitor["CONNECTION_TYPE"].ToString();
+                    Infos.PBLAUNCHER_API_ADDRESS = leitor["URL_API"].ToString();
                     Infos.PBLAUNCHER_VERSION_CLIENT_ATT = int.Parse(leitor["LAST_CLIENT_VERSION"].ToString());
                     Infos.PBLAUNCHER_VERSION = int.Parse(leitor["LAST_PBLAUNCHER_VERSION"].ToString());
                     Infos.PBLAUNCHER_ADDRESS = leitor["IP_ADDRESS"].ToString();
