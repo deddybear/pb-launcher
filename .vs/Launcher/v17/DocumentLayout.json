@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\launcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\launcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|d:\\games\\pb offline\\pb 368\\launcher\\pblauncher\\launcher\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\launcher\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B198F84A-9BB6-4CF5-8F9B-63AE9F798A45}|Launcher\\Launcher.csproj|solutionrelative:launcher\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 199,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "Launcher\\Launcher.Designer.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAWwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T20:30:22.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T20:30:22.761Z"
             },
             {
               "$type": "Document",
@@ -74,8 +73,7 @@
               "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs [Design]",
               "RelativeToolTip": "Launcher\\Launcher.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T20:30:19.847Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-06T20:30:19.847Z"
             },
             {
               "$type": "Document",
@@ -92,33 +90,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Launcher.cs",
               "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs",
               "RelativeDocumentMoniker": "Launcher\\Launcher.cs",
               "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\Launcher.cs",
               "RelativeToolTip": "Launcher\\Launcher.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAwwLUAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAA2wJkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T16:49:22.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T16:49:22.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\LoginForm.cs",
               "RelativeDocumentMoniker": "Launcher\\LoginForm.cs",
               "ToolTip": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\LoginForm.cs",
               "RelativeToolTip": "Launcher\\LoginForm.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAWwLQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAADwv4cAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T19:04:13.559Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\LoginForm.cs",
               "RelativeDocumentMoniker": "Launcher\\LoginForm.cs",
@@ -130,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "D:\\Games\\PB OFFLINE\\PB 368\\Launcher\\PBLauncher\\Launcher\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "Launcher\\LoginForm.Designer.cs",

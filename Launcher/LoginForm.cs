@@ -133,7 +133,7 @@ namespace Launcher
             {
                 Process.Start(new ProcessStartInfo
                 {
-                    FileName = "https://www.google.com",
+                    FileName = "http://pb.itki.local/register",
                     UseShellExecute = true
                 });
             }
