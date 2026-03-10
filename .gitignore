@@ -7,8 +7,8 @@
 
 # Build folders
 
-bin/
-obj/
+Launcher/bin/
+Launcher/obj/
 
 # Visual Studio cache
 
@@ -20,8 +20,8 @@ obj/
 
 # Build results
 
-Debug/
-Release/
+Launcher/bin/*
+Launcher/obj/*
 
 # Logs
 
