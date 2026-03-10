@@ -601,6 +601,7 @@
 [2026.03.07 - 03:26] [#] System.Runtime.CompilerServices.Unsafe.dll.
 [2026.03.07 - 03:26] Berkas telah diverifikasi.
 [2026.03.07 - 03:26] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+<<<<<<< HEAD
 [2026.03.10 - 01:03] Memeriksa file-file penting.
 [2026.03.10 - 01:03] [#] Config.json.
 [2026.03.10 - 01:03] [#] Newtonsoft.Json.dll.
@@ -608,3 +609,21 @@
 [2026.03.10 - 01:03] [#] System.Threading.Tasks.Extensions.dll.
 [2026.03.10 - 01:03] [#] System.Runtime.CompilerServices.Unsafe.dll.
 [2026.03.10 - 01:03] Berkas telah diverifikasi.
+=======
+[2026.03.10 - 14:57] Memeriksa file-file penting.
+[2026.03.10 - 14:57] [#] Config.json.
+[2026.03.10 - 14:57] [#] Newtonsoft.Json.dll.
+[2026.03.10 - 14:57] [#] System.ValueTuple.dll.
+[2026.03.10 - 14:57] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.10 - 14:57] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.10 - 14:57] Berkas telah diverifikasi.
+[2026.03.10 - 14:57] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+[2026.03.10 - 15:00] Memeriksa file-file penting.
+[2026.03.10 - 15:00] [#] Config.json.
+[2026.03.10 - 15:00] [#] Newtonsoft.Json.dll.
+[2026.03.10 - 15:00] [#] System.ValueTuple.dll.
+[2026.03.10 - 15:00] [#] System.Threading.Tasks.Extensions.dll.
+[2026.03.10 - 15:00] [#] System.Runtime.CompilerServices.Unsafe.dll.
+[2026.03.10 - 15:00] Berkas telah diverifikasi.
+[2026.03.10 - 15:00] Permainan tidak dapat dimulai. 'PointBlank.exe' tidak ditemukan.
+>>>>>>> 0e1437ca198927882420c8a2fb9dd391d56387aa

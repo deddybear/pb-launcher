@@ -23,6 +23,7 @@ namespace Launcher
         {
             
         InitializeComponent();
+            Infos.PBLAUNCHER_API_ADDRESS = "http://api.pb.local";
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
@@ -166,49 +167,53 @@ namespace Launcher
                     // Hit API
                     HttpResponseMessage response = await client.PostAsync(Infos.PBLAUNCHER_API_ADDRESS + "/api/auth/login-app", content);
 
+                    string responseBody = await response.Content.ReadAsStringAsync();
+                    // Deserialize response
+                    var result = JsonConvert.DeserializeObject<dynamic>(responseBody);
+
+
+                    //MessageBox.Show(result.message, "Info", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+
                     if (response.IsSuccessStatusCode)
                     {
-                        string responseBody = await response.Content.ReadAsStringAsync();
-
-                        // Deserialize response
-                        var result = JsonConvert.DeserializeObject<dynamic>(responseBody);
 
                         // Contoh ambil token jika ada
                         // string token = result.token;
 
-                        MessageBox.Show("Login Berhasil!", "Info",
+                        MessageBox.Show(result.message, "Info",
                                          MessageBoxButtons.OK, MessageBoxIcon.Information);
                         return true;
                     }
                     else if (response.StatusCode == System.Net.HttpStatusCode.Unauthorized)
                     {
-                        MessageBox.Show("Username atau Password salah!", "Error",
+                        MessageBox.Show("Username atau Password salah! : " + result.message, "Error",
                                          MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return false;
                     }
                     else
                     {
-                        MessageBox.Show("Terjadi kesalahan! Status: " + response.StatusCode, "Error",
+                        MessageBox.Show("Terjadi kesalahan! Status: " + result.message, "Error",
                                          MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return false;
                     }
                 }
             }
-            catch (HttpRequestException)
+            catch (HttpRequestException e)
             {
-                MessageBox.Show("Gagal konek ke server, periksa koneksi internet!", "Error",
+                MessageBox.Show("Gagal konek ke server, periksa koneksi internet! " + e.Message, "Error",
                                  MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
-            catch (TaskCanceledException)
+            catch (TaskCanceledException e)
             {
-                MessageBox.Show("Request timeout, server tidak merespons!", "Error",
+                MessageBox.Show("Request timeout, server tidak merespons! " + e.Message, "Error",
                                  MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Terjadi kesalahan: " + ex.Message, "Error",
+                MessageBox.Show("Terjadi kesalahan: Exception - " + ex.Message, "Error",
                                  MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
