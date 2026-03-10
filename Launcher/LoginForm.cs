@@ -116,6 +116,8 @@ namespace Launcher
 
             bool resultLoginAPI = await LoginAsync(username, password);
 
+            BTN_Login.Enabled = true;
+
             if (!resultLoginAPI) {
                 Logger.Log("[#] Gagal melakukan login ");
                 MessageBox.Show("Gagal melakukan login.", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Error);
