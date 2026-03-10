@@ -23,6 +23,7 @@ namespace Launcher
         {
             
         InitializeComponent();
+            Infos.PBLAUNCHER_API_ADDRESS = "http://api.pb.local";
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
@@ -166,6 +167,9 @@ namespace Launcher
                     // Hit API
                     HttpResponseMessage response = await client.PostAsync(Infos.PBLAUNCHER_API_ADDRESS + "/api/auth/login-app", content);
 
+                    MessageBox.Show(response.ToString(), "Error",
+                                         MessageBoxButtons.OK, MessageBoxIcon.Error);
+
                     if (response.IsSuccessStatusCode)
                     {
                         string responseBody = await response.Content.ReadAsStringAsync();
@@ -194,15 +198,15 @@ namespace Launcher
                     }
                 }
             }
-            catch (HttpRequestException)
+            catch (HttpRequestException e)
             {
-                MessageBox.Show("Gagal konek ke server, periksa koneksi internet!", "Error",
+                MessageBox.Show("Gagal konek ke server, periksa koneksi internet! " + e.Message, "Error",
                                  MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
-            catch (TaskCanceledException)
+            catch (TaskCanceledException e)
             {
-                MessageBox.Show("Request timeout, server tidak merespons!", "Error",
+                MessageBox.Show("Request timeout, server tidak merespons! " + e.Message, "Error",
                                  MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
