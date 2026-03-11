@@ -42,8 +42,7 @@ namespace Launcher
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Launcher));
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(LoginForm));
             this.BTN_Close = new System.Windows.Forms.PictureBox();
             this.BTN_Login = new System.Windows.Forms.PictureBox();
             this.BTN_Register = new System.Windows.Forms.PictureBox();
@@ -119,7 +118,6 @@ namespace Launcher
             this.lblUsername.Size = new System.Drawing.Size(58, 13);
             this.lblUsername.TabIndex = 0;
             this.lblUsername.Text = "Username:";
-            //this.lblUsername.Click += new System.EventHandler(this.lblUsername_Click);
             // 
             // IconAccount
             // 
@@ -150,7 +148,7 @@ namespace Launcher
             this.txtUsername.Name = "txtUsername";
             this.txtUsername.Size = new System.Drawing.Size(233, 20);
             this.txtUsername.TabIndex = 0;
-
+            this.txtUsername.KeyDown += Txt_Username_KeyDown;
             // 
             // txtPassword
             // 
@@ -162,7 +160,7 @@ namespace Launcher
             this.txtPassword.PasswordChar = '●';
             this.txtPassword.Size = new System.Drawing.Size(233, 20);
             this.txtPassword.TabIndex = 0;
-
+            this.txtPassword.KeyDown += Txt_Password_KeyDown;
             // 
             // LoginForm
             // 
@@ -180,11 +178,13 @@ namespace Launcher
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.txtPassword);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "LoginForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Login Form";
+            //this.Load += new System.EventHandler(this.LoginForm_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Close)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Login)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Register)).EndInit();

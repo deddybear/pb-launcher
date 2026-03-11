@@ -22,13 +22,22 @@ namespace Launcher
         public LoginForm()
         {
             
-        InitializeComponent();
+            InitializeComponent();
             Infos.PBLAUNCHER_API_ADDRESS = "http://api.pb.local";
+            this.KeyPreview = true;
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void LoginForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                 BTN_Login_Click(sender, e);
+            }
         }
 
         private void BTN_Register_MouseLeave(object sender, EventArgs e)
@@ -72,6 +81,24 @@ namespace Launcher
             this.Close();
         }
 
+        private void Txt_Username_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                BTN_Login_Click(sender, e);
+            }
+        }
+
+        private void Txt_Password_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                BTN_Login_Click(sender, e);
+            }
+        }
+
         private void BTN_Toggle_Password_Click(object sender, EventArgs e)
         {
             if (isPasswordVisible)
@@ -110,7 +137,11 @@ namespace Launcher
             {
                 MessageBox.Show("Username dan Password tidak boleh kosong!", "Peringatan",
                                  MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
+
+            //MessageBox.Show(username + " " + password, "Peringatan",
+            //                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
             BTN_Login.Enabled = false;
 
@@ -119,8 +150,6 @@ namespace Launcher
             BTN_Login.Enabled = true;
 
             if (!resultLoginAPI) {
-                Logger.Log("[#] Gagal melakukan login ");
-                MessageBox.Show("Gagal melakukan login.", Application.ProductName, MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
@@ -183,7 +212,7 @@ namespace Launcher
                         // Contoh ambil token jika ada
                         // string token = result.token;
 
-                        MessageBox.Show(result.message, "Info",
+                        MessageBox.Show(" " + result.message, "Info",
                                          MessageBoxButtons.OK, MessageBoxIcon.Information);
                         return true;
                     }
