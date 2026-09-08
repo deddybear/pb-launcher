@@ -38,7 +38,27 @@ namespace Launcher
         public static extern bool ReleaseCapture();
         public Launcher()
         {
-            InitializeComponent();
+            try
+            {
+                InitializeComponent();
+            }
+            catch (Exception ex)
+            {
+
+                Logger.Log($"Error InitializeComponent Launcher.cs {ex.Message}");
+
+                MessageBox.Show(
+                    ex.ToString(),
+                    "Error InitializeComponent",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error
+                );
+
+
+
+                Application.Exit();
+
+            }
         }
         #region mouse events
         private void BTN_Start_MouseEnter(object sender, EventArgs e)
@@ -117,10 +137,14 @@ namespace Launcher
             }
         }
        #endregion
-        private void Launcher_Load(object sender, EventArgs e)
+        private async void Launcher_Load(object sender, EventArgs e)
         {
             MouseDown += new MouseEventHandler(Launcher_MouseDown);
             CheckNewsUpdate();
+
+            await webView21.EnsureCoreWebView2Async();
+
+            webView21.CoreWebView2.Navigate("http://localhost:5173/patch-notes-launcher");
         }
         public void ButtonsVisible(bool start, bool check, bool update)
         {
@@ -698,5 +722,6 @@ namespace Launcher
                 Application.Exit();
             }
         }
+
     }
 }

@@ -28,7 +28,7 @@ namespace Launcher
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Kesalahan yang tidak terduga: {ex.Message}", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Kesalahan yang tidak terduga: {ex.Message} {ex.Data}", "Kesalahan", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

@@ -42,6 +42,7 @@
             this.STATUS_LABEL = new System.Windows.Forms.Label();
             this.BTN_Update = new System.Windows.Forms.PictureBox();
             this.NEWS_UPDATE = new System.Windows.Forms.Timer(this.components);
+            this.webView21 = new Microsoft.Web.WebView2.WinForms.WebView2();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Start)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Check)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Minimize)).BeginInit();
@@ -49,6 +50,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.FileBar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TotalBar)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Update)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.webView21)).BeginInit();
             this.SuspendLayout();
             // 
             // BTN_Start
@@ -172,12 +174,24 @@
             // 
             this.NEWS_UPDATE.Tick += new System.EventHandler(this.NEWS_UPDATE_Tick);
             // 
+            // webView21
+            // 
+            this.webView21.AllowExternalDrop = true;
+            this.webView21.CreationProperties = null;
+            this.webView21.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webView21.Location = new System.Drawing.Point(243, 160);
+            this.webView21.Name = "webView21";
+            this.webView21.Size = new System.Drawing.Size(519, 270);
+            this.webView21.TabIndex = 11;
+            this.webView21.ZoomFactor = 1D;
+            // 
             // Launcher
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Launcher.Properties.Resources.Background1;
-            this.ClientSize = new System.Drawing.Size(790, 531);
+            this.BackgroundImage = global::Launcher.Properties.Resources.Background_3;
+            this.ClientSize = new System.Drawing.Size(793, 574);
+            this.Controls.Add(this.webView21);
             this.Controls.Add(this.STATUS_LABEL);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.FILE_LABEL);
@@ -191,8 +205,8 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Launcher";
-            this.Text = "Launcher";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Launcher";
             this.Load += new System.EventHandler(this.Launcher_Load);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Launcher_MouseDown);
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Start)).EndInit();
@@ -202,6 +216,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.FileBar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.TotalBar)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BTN_Update)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.webView21)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -220,6 +235,7 @@
         private System.Windows.Forms.Label STATUS_LABEL;
         private System.Windows.Forms.PictureBox BTN_Update;
         private System.Windows.Forms.Timer NEWS_UPDATE;
+        private Microsoft.Web.WebView2.WinForms.WebView2 webView21;
     }
 }
 

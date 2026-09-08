@@ -69,7 +69,7 @@ namespace Launcher
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show(ex.ToString());
+                    MessageBox.Show(ex.Message);
                     Application.Exit();
                     return false;
                 }
@@ -94,7 +94,7 @@ namespace Launcher
                 }
                 leitor.Close();
             }
-            catch (Exception ex) { Mensagem.Error(ex.ToString(), Application.ProductName);}
+            catch (Exception ex) { Mensagem.Error(ex.Message, Application.ProductName);}
             string configPath = Path.Combine(Application.StartupPath, "config.json");
             long publicVersion = 0;
             if (File.Exists(configPath))
